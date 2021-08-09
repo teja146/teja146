@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
- <category>
-    <pattern>HI</pattern>
-    <template>HELLO! HOW CAN I HELP YOU ?</template>
-    <pattern>HI</pattern>
-    <template>HELLO! HOW CAN I HELP YOU ?</template>
-  </category>
+  <category>
   <category><pattern>NAME</pattern>
     <pattern>WHAT IS YOUR NAME</pattern>
     <template>My Name is SRAVYA</template>
